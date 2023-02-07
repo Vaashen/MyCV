@@ -1,0 +1,13 @@
+.row {
+    background-color: #f4f4f4;
+    align-items: center;
+}
+
+h1 {
+    margin-left: 150px;
+}
+
+p{
+    font-size: 20px;
+}
+
